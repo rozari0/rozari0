@@ -1,0 +1,12 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <rect x="15" y="15" width="570" height="120" rx="55" fill="#42c15e" />
+
+  <rect x="12" y="12" width="576" height="126" rx="58" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" />
+
+  <path d="M70,12 Q30,12 12,60 T12,90 Q12,138 60,138 L540,138 Q588,138 588,90 T588,60 Q588,12 540,12 Z" fill="none" stroke="black" stroke-width="1.5" />
+
+  <text x="50" y="88" font-size="35">👋</text>
+  <text x="110" y="88" font-family="'Comic Sans MS', 'Marker Felt', cursive" font-size="38" font-weight="bold" fill="black">
+    Hello World, I'm Daniel!
+  </text>
+</svg>
